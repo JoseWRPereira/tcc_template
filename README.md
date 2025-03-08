@@ -7,7 +7,7 @@ Organização do diretório
 |
 |`---artigo------------|
 |                      |`---img|
-|                       `---[artigo.md](artigo/artigo.md)
+|                       `---artigo.md
 |
 |`---trabalho_academico|
 |                      |`---img|

@@ -1,9 +1,13 @@
 # Artigo de trabalho acadêmico
 
 Autor 1 / email@autor1 / Instituição
+
 Autor 2 / email@autor2 / Instituição
+
 Autor 3 / email@autor3 / Instituição
+
 José William Rodrigues Pereira / jose.pereira@ifsp.edu.br / IFSP-Salto
+
 
 # Resumo
 
@@ -23,15 +27,15 @@ Produzir um afunilamento no fluxo de ideias, trazendo uma abordagem macro no in�
 Abordar os seguintes aspectos:
 
 1. Contexto
-  - Em qual grande área o projeto se enquadra?
-  - E qual a sua importância
+     - Em qual grande área o projeto se enquadra?
+     - E qual a sua importância
 2. Lacuna
-  - O que ainda não foi abordado sobre o assunto do projeto? 
+     - O que ainda não foi abordado sobre o assunto do projeto? 
 3. Estado da arte/técnica
-  - O que existe de mais moderno na academia ou indústria sobre o tema? 
+     - O que existe de mais moderno na academia ou indústria sobre o tema? 
 4. Propósito (Objetivo)
-  - O que se busca alcançar com este trabalho? 
-  - Qual é a contribuição dele para a academia? 
+     - O que se busca alcançar com este trabalho? 
+     - Qual é a contribuição dele para a academia? 
 
 # Metodologia
 
