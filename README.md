@@ -16,6 +16,7 @@ Organização do diretório
 |
 |`---gestao------------|
 |                       `---ferrementas_de_gestao|
+|                       `---gestao_do_projeto.md
 |
  `---prog--------------|
                        |`---esp32-|
